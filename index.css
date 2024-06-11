@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+section {
+    padding: 60px 0;
+}
+
+#home {
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+
+#about, #resume, #portfolio, #contact {
+    background: #ffffff;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+#portfolio .row {
+    margin-top: 20px;
+}
